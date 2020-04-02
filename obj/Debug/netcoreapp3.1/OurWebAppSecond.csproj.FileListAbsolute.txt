@@ -108,3 +108,4 @@ E:\OurSecondExample\OurWebAppSecond\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.Co
 E:\OurSecondExample\OurWebAppSecond\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 E:\OurSecondExample\OurWebAppSecond\obj\Debug\netcoreapp3.1\OurWebAppSecond.csproj.CoreCompileInputs.cache
 E:\OurSecondExample\OurWebAppSecond\obj\Debug\netcoreapp3.1\OurWebAppSecond.MvcApplicationPartsAssemblyInfo.cache
+E:\OurSecondExample\OurWebAppSecond\obj\Debug\netcoreapp3.1\Razor\Views\Emps\Index.cshtml.g.cs
